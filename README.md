@@ -20,16 +20,14 @@ The project allowed me to put into practice the key concepts of Algorithms and D
 
 ### Track 1 - Assembly Line
 The first track of the project, relating to the implementation of the Assembly Line, allowed me to:
-  - Learn, in a practical way, how the resolution of an optimization problem can be approached. 
-    - These problems have several optimal solutions, each associated with a goodness index, to identify the best desired solution.
+  - Learn, in a practical way, how the resolution of an optimization problem can be approached: these problems have several optimal solutions, each associated with a goodness index, to identify the best desired solution.
   - Understand how to significantly reduce the computational complexity of an algorithm by using the right programming technique.
 
 Moreover, I had the opportunity to approach C++ in a practical way, fully exploiting the characteristics of an object-oriented programming language:
   - Developed abstraction and encapsulation characteristics by:
     - Defining members of various classes as public and private.
     - Allowing the end user to interact with the implementation through an interface.
-  - Implemented constructors and destructors for each class:
-    - Overloaded the default constructor, when necessary, to allow correct object initialization using input-defined arguments.
+  - Implemented constructors and destructors for each class: Overloaded the default constructor, when necessary, to allow correct object initialization using input-defined arguments.
   - Equipped classes with canonical getter and setter methods:
     - Facilitated the valorization and recovery of information.
     - Maintained data integrity and coherence.
