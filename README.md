@@ -1,7 +1,9 @@
 #  Data Structures and Algorithms
 
 ## 🛠 Skills
-DSA, C++, Object Oriented Programming
+- DSA
+- C++
+- Object Oriented Programming
 
 ## 📝 Requirements
 
